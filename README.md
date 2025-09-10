@@ -101,6 +101,6 @@ All values are calculated and added to the final bill.
 ## ✍️ Author
 
 Developed by **Satvik Parihar, Chinmay Modi, DevPriya Morkhiya , Dhruvish Patel , Yug Dandawala**
-🔗 [GitHub: Ichigo-wiz](https://github.com/Ichigo-wiz)
+🔗 [GitHub: Ichigo-wiz](https://github.com/Satvik-Parihar)
 
 ---
